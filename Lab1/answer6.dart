@@ -1,3 +1,4 @@
+// 6.	Write a dart program to generate multiplication tables of 5.
 void main() {
   int num = 5;
   mul(num);
